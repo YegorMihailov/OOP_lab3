@@ -1,0 +1,123 @@
+{
+  "tests": 21,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "FractionTest",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "DefaultConstructor",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 10
+        },
+        {
+          "name": "DivisionByZeroThrows",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 16
+        },
+        {
+          "name": "SimplificationGCD",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 22
+        },
+        {
+          "name": "SignNormalization",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 32
+        },
+        {
+          "name": "ZeroNumeratorNormalization",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 42
+        },
+        {
+          "name": "EqualityOperators",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 52
+        },
+        {
+          "name": "StreamOutput",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 61
+        }
+      ]
+    },
+    {
+      "name": "FractionSetTest",
+      "tests": 14,
+      "testsuite": [
+        {
+          "name": "DefaultConstructorIsEmpty",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 70
+        },
+        {
+          "name": "AddAndDuplicates",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 76
+        },
+        {
+          "name": "ContainsAndCallOperatorConsistency",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 88
+        },
+        {
+          "name": "RemoveElement",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 102
+        },
+        {
+          "name": "CompoundAssignmentOperators",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 118
+        },
+        {
+          "name": "CopyConstructorDeep",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 127
+        },
+        {
+          "name": "CopyAssignmentAndSelfAssignment",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 141
+        },
+        {
+          "name": "MoveConstructor",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 154
+        },
+        {
+          "name": "MoveAssignment",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 168
+        },
+        {
+          "name": "UnionOperation",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 183
+        },
+        {
+          "name": "IntersectionOperation",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 199
+        },
+        {
+          "name": "DifferenceOperation",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 213
+        },
+        {
+          "name": "EqualityAndInequality",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 227
+        },
+        {
+          "name": "StreamOutput",
+          "file": "C:\/web\/OOP\/lab3\/tests\/test.cpp",
+          "line": 244
+        }
+      ]
+    }
+  ]
+}

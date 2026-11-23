@@ -1,0 +1,5 @@
+rm -rf *
+cmake ..
+cmake --build .
+./Debug/lab2_main.exe
+./Debug/lab2_tests.exe

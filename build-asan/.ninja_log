@@ -1,0 +1,11 @@
+# ninja log v7
+75	2883	8161719745444441	CMakeFiles/fraction_lib.dir/src/fraction_set.cpp.obj	2acdf6e4f3d48ed3
+2899	3196	8161719773695454	libfraction_lib.a	dcd9d112254d633e
+85	3895	8161719745544468	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	45d2c7fedfe284aa
+101	4860	8161719745744530	CMakeFiles/lab3_tests.dir/tests/test.cpp.obj	dfb4b02884e9440f
+63	14019	8161719745324409	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f71bcb12689eb45
+14027	14257	8161719884969979	lib/libgtest.a	563ccf8283e98c26
+14257	14410	8161719887270968	lib/libgtest_main.a	b79a4fc42ea7371
+14433	15998	8161719904563751	lab3_tests.exe	864ed51c0150201d
+14433	15998	8161719904563751	lab3_tests_e3b0c442_tests.cmake	864ed51c0150201d
+14433	15998	8161719904563751	C:/web/OOP/lab3/build-asan/lab3_tests_e3b0c442_tests.cmake	864ed51c0150201d

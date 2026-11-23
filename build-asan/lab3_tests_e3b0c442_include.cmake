@@ -1,0 +1,5 @@
+if(EXISTS "C:/web/OOP/lab3/build-asan/lab3_tests_e3b0c442_tests.cmake")
+  include("C:/web/OOP/lab3/build-asan/lab3_tests_e3b0c442_tests.cmake")
+else()
+  add_test(lab3_tests_NOT_BUILT lab3_tests_NOT_BUILT)
+endif()
